@@ -4,8 +4,9 @@ public class Main {
 
         String Vorname = "Max";
         String Nachname = "Joachimstaller";
+        String Herkunft = "Raubling";
         int Alter = 21;
         int Geburtsjahr = (int) 1997;
-        System.out.println("Hallo "+Vorname+" "+Nachname +" du bist "+Geburtsjahr+" geboren.");
+        System.out.println("Hallo "+Vorname+" "+Nachname +" du bist "+Geburtsjahr+" in "+Herkunft+" geboren und somit "+Alter+" Jahre alt.");
     }
 }
