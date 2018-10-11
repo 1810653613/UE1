@@ -2,8 +2,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String vorname = "Michael";
-        int alter = (int) 21.7;
-        System.out.println("Hallo "+vorname+" du bist "+alter);
+        String Nachname = "Joachimstaller";
+        int Geburtsjahr = (int) 1997;
+        System.out.println("Hello "+Nachname+" you´re born in "+Geburtsjahr);
     }
 }
