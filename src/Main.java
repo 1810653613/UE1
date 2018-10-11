@@ -4,7 +4,8 @@ public class Main {
 
         String Vorname = "Max";
         String Nachname = "Joachimstaller";
+        int Alter = 21;
         int Geburtsjahr = (int) 1997;
-        System.out.println("Hello "+Vorname+" "+Nachname);
+        System.out.println("Hallo "+Vorname+" "+Nachname +" du bist "+Geburtsjahr+" geboren.");
     }
 }
